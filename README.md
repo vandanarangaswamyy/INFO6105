@@ -26,6 +26,7 @@ Conducts a hard-threshold analysis to identify significant predictors based on p
 
 
 _Results Summary_
+
 The Fama-French Technical Model shows the highest explanatory power with an R-squared of 0.3280 and a correlation of 0.5727.
 The CAPM Augmented Model and Kalman Filter Model provide moderate performance, effectively using market risk factors.
 The Augmented AR(1) Model highlights the importance of autoregressive terms but has the lowest overall predictive power.
